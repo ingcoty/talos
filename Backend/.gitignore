@@ -1,0 +1,23 @@
+# dependencies
+talos_frontend/node_modules
+talos_frontend/.pnp
+talos_frontend.pnp.js
+
+# testing
+talos_frontend/coverage
+
+# production
+talos_frontend/build
+
+# misc
+talos_frontend/.DS_Store
+talos_frontend/.env.local
+talos_frontend/.env.development.local
+talos_frontend/.env.test.local
+talos_frontend/.env.production.local
+
+talos_frontend/npm-debug.log*
+talos_frontend/yarn-debug.log*
+talos_frontend/yarn-error.log*
+
+env
